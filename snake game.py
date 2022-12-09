@@ -6,7 +6,7 @@ delay = 0.1
 
 #score===============
 score = 0 
-high_score = 0
+high_score = 0 
 
 
 #SCREEN MAKING=========
