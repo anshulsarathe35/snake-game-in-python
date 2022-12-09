@@ -1,5 +1,5 @@
 # snake-game-in-python
-A Snake Game in Python using turtle Library
+A Snake Game in Python using turtle Library 
 
 What is turtle library in Python? 
 
